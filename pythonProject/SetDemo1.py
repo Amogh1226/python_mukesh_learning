@@ -1,0 +1,10 @@
+myset={90,89,76,12,2,888,90,90}
+print(myset)
+myset.add(777)
+print(myset)
+myset.pop()
+print(myset)
+#myset.remove(8889)
+myset.discard(899999)
+print(myset)
+print(len(myset))
