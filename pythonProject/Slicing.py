@@ -7,7 +7,7 @@ print(lst)
 print(tpl)
 print(s)
 
-print('0 =', lst[0])
+print('0 =', lst[100])
 print('9 =', lst[9])
 print('5 =', lst[5])
 print('-1 =', lst[-1])
