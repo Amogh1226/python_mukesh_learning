@@ -10,6 +10,6 @@ for m in [12,23,34,45]:
     finalMarks=finalMarks+m
 
 result=str(finalMarks)
-#print(finalMarks)
+print(finalMarks)
 print("Final value is "+ str(finalMarks))
 print("Bye")
